@@ -1,0 +1,15 @@
+
+services:
+  postgres:
+    image: postgres:14
+    restart: unless-stopped
+    environment:
+      - POSTGRES_PASSWORD=postgres
+      - POSTGRES_DB=postgres
+      - POSTGRES_USER=postgres
+    ports:
+      - 5432:5432
+    container_name: ex2_6_postgres
+    volumes:
+      - ./database:/var/lib/postgresql/data
+
