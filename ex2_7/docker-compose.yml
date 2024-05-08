@@ -9,7 +9,9 @@ services:
       - POSTGRES_USER=postgres
     ports:
       - 5432:5432
-    container_name: ex2_6_postgres
+    container_name: ex2_7_postgres
     volumes:
-      - ./database:/var/lib/postgresql/data
+      - type: bind
+        source: ./database
+        target: /var/lib/postgresql/data
 
