@@ -38,3 +38,5 @@
 ## Part 2
 
 ### Exercises - markdowns
+
+[Ex2.1](exercise_2_1.md)
