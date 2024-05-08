@@ -40,3 +40,7 @@
 ### Exercises - markdowns
 
 [Ex2.1](exercise_2_1.md)
+
+[Ex2.2](exercise_2_2.md)
+
+[Ex2.3](exercise_2_3.md)

@@ -16,3 +16,4 @@ elif [ $1 == 'stop' ]; then
 else
   echo "invalid command option"
 fi
+
