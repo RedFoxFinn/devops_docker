@@ -18,6 +18,7 @@ Ie. `./handler.sh run` or `./handler.sh stop`
 #### localhost:3000
 
 Your aim is to get the bottom bar to fill before the first depletes!
+
 [Press here to test your solution]-button (in orange)
 
 *click the button*
