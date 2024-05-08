@@ -8,8 +8,8 @@
 | [Ex1.1](exercise_1_1.md) | [Ex2.1](exercise_2_1.md) |  |
 | [Ex1.2](exercise_1_2.md) | [Ex2.2](exercise_2_2.md) |  |
 | [Ex1.3](exercise_1_3.md) | [Ex2.3](exercise_2_3.md) |  |
-| [Ex1.4](exercise_1_4.md) |  |  |
-| [Ex1.5](exercise_1_5.md) |  |  |
+| [Ex1.4](exercise_1_4.md) | [Ex2.4](exercise_2_4.md) |  |
+| [Ex1.5](exercise_1_5.md) | [Ex2.5](exercise_2_5.md) |  |
 | [Ex1.6](exercise_1_6.md) |  |  |
 | [Ex1.7](exercise_1_7.md) |  |  |
 | [Ex1.8](exercise_1_8.md) |  |  |

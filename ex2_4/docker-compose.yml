@@ -1,0 +1,28 @@
+
+services:
+  redis:
+    image: redis:7.2
+    restart: always
+    ports:
+      - 6379:6379
+    environment:
+      - REDIS_PASSWORD=default-redis
+    container_name: ex2_4_redis
+  frontend:
+    build:
+      context: ../ex1_12
+      dockerfile: Dockerfile
+    ports:
+      - 5000:5000
+    container_name: ex2_4_front
+  backend:
+    build:
+      context: ../ex1_13
+      dockerfile: Dockerfile
+    restart: unless-stopped
+    environment:
+      - REDIS_HOST=ex2_4_redis
+    ports:
+      - 5001:8080
+    container_name: ex2_4_back
+
