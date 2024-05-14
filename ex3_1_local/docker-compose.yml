@@ -4,6 +4,8 @@ services:
     image: redfoxfinn/devops_docker:latest
     attach: false
     container_name: ex3_1_devopser
+    labels:
+      - "com.centurylinklabs.watchtower.enable=true"
     ports:
       - 8080:8080
   watchtower:
