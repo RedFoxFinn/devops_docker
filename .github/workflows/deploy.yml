@@ -1,5 +1,5 @@
 
-name: DevOps with Docker Deployment pipeline - RFF
+name: DevOps with Docker deployment - RFF
 
 on:
   push:
@@ -16,7 +16,7 @@ jobs:
         with:
           username: ${{ secrets.DOCKERHUB_USERNAME }}
           password: ${{ secrets.DOCKERHUB_TOKEN }}
-      - name: Build & push
+      - name: Build & deploy
         uses: docker/build-push-action@v5
         with:
           context: ./ex3_1
