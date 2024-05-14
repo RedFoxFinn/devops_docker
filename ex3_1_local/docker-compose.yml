@@ -1,0 +1,16 @@
+
+services:
+  devopser:
+    image: redfoxfinn/devops_docker:latest
+    attach: false
+    container_name: ex3_1_devopser
+    ports:
+      - 8080:8080
+  watchtower:
+    image: containrrr/watchtower
+    environment:
+      - WATCHTOWER_POLL_INTERVAL=60
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock
+    container_name: ex3_1_watchtower
+    command: --label-enable

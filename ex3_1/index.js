@@ -1,9 +1,8 @@
 const express = require('express')
 const app = express()
+const path = require('path')
 
-app.get('/', (req, res) => {
-  res.send('<h1>Hello World!</h1>')
-})
+app.use('/', express.static(path.join(__dirname, 'content')))
 
 const PORT = 8080
 
