@@ -14,7 +14,7 @@
 | [Ex1.7](exercise_1_7.md) | [Ex2.7](exercise_2_7.md) |  |
 | [Ex1.8](exercise_1_8.md) | [Ex2.8](exercise_2_8.md) |  |
 | [Ex1.9](exercise_1_9.md) | [Ex2.9](exercise_2_9.md) |  |
-| [Ex1.10](exercise_1_10.md) |  |  |
+| [Ex1.10](exercise_1_10.md) | [Ex2.10](exercise_2_10.md) |  |
 | [Ex1.11](exercise_1_11.md) |  |  |
 | [Ex1.12](exercise_1_12.md) |  |  |
 | [Ex1.13](exercise_1_13.md) |  |  |
