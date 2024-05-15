@@ -2,8 +2,8 @@
 
 stopper() {
   echo "remove old containers..."
-  docker rm --force ex3_5_front
-  docker rm --force ex3_5_back
+  docker rm --force ex3_5_front_m
+  docker rm --force ex3_5_back_m
   echo "done with forced removal, effectively kill"
 }
 

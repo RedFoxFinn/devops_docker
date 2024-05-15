@@ -10,10 +10,10 @@
 | [Ex1.3](exercise_1_3.md) | [Ex2.3](exercise_2_3.md) | [Ex3.3](exercise_3_3.md) |
 | [Ex1.4](exercise_1_4.md) | [Ex2.4](exercise_2_4.md) |  |
 | [Ex1.5](exercise_1_5.md) | [Ex2.5](exercise_2_5.md) | [Ex3.5](exercise_3_5.md) |
-| [Ex1.6](exercise_1_6.md) | [Ex2.6](exercise_2_6.md) |  |
-| [Ex1.7](exercise_1_7.md) | [Ex2.7](exercise_2_7.md) |  |
-| [Ex1.8](exercise_1_8.md) | [Ex2.8](exercise_2_8.md) |  |
-| [Ex1.9](exercise_1_9.md) | [Ex2.9](exercise_2_9.md) |  |
+| [Ex1.6](exercise_1_6.md) | [Ex2.6](exercise_2_6.md) | [Ex3.6](exercise_3_6.md) |
+| [Ex1.7](exercise_1_7.md) | [Ex2.7](exercise_2_7.md) | [Ex3.7](exercise_3_7.md) |
+| [Ex1.8](exercise_1_8.md) | [Ex2.8](exercise_2_8.md) | [Ex3.8](exercise_3_8.md) |
+| [Ex1.9](exercise_1_9.md) | [Ex2.9](exercise_2_9.md) | [Ex3.9](exercise_3_9.md) |
 | [Ex1.10](exercise_1_10.md) | [Ex2.10](exercise_2_10.md) |  |
 | [Ex1.11](exercise_1_11.md) |  |  |
 | [Ex1.12](exercise_1_12.md) |  |  |

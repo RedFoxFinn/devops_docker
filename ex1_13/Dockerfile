@@ -1,4 +1,4 @@
-FROM golang:1.16
+FROM golang:1.16-alpine
 
 WORKDIR /usr/src/app
 
@@ -8,8 +8,8 @@ ENV REQUEST_ORIGIN="http://localhost:5000"
 
 RUN go build
 
-RUN adduser --disabled-password appuser
-RUN chown appuser .
+RUN adduser --disabled-password appuser && chown appuser .
+
 USER appuser
 
 EXPOSE 8080
